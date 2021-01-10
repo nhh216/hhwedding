@@ -1,0 +1,203 @@
+@media (min-width: 1200px) and (max-width: 1464px) {
+    .slider-wrapper .slide-text-normal {
+        top: 24%;
+    }
+    .slider-wrapper .slide-text-normal .slide-text-img {
+        width: 526px;
+        height: auto;
+    }
+    .slider-wrapper .slide-text-normal .content {
+        padding-top: 104px;
+    }
+}
+
+@media (max-width: 1199px) {
+    /* story wrapper */
+    .story-wrapper .story-timeline .story-img img {
+        width: 100%;
+        height: auto;
+        max-width: unset;
+    }
+    /* slide text */
+    .slide-text {
+        top: 16%;
+    }
+}
+
+@media (max-width: 991px) {
+    /* home */
+    .slider-wrapper .slide-text-normal {
+        top: 22%;
+    }
+    .slider-wrapper .slide-text-normal .content {
+        background-color: #f7f7f7;
+        padding: 48px 0;
+    }
+    .slider-wrapper .slide-text-normal .slide-text-img {
+        display: none;
+    }
+    /* story wrapper */
+    .padding-left {
+        padding: 0 0 0 45px;
+    }
+    .padding-left.p-img {
+        padding: 0 45px 0 0;
+    }
+    .story-wrapper .story-timeline .story-text p {
+        font-size: 12px;
+        padding: 0 38px;
+    }
+    /* event section */
+    .slick-slide img {
+        max-width: unset;
+        width: 100%;
+    }
+    .wd-events-box-wrapper .event-item {
+        margin-bottom: 50px;
+    }
+    /* wd family */
+    .wd-family .thumb img {
+        width: 100%;
+        height: auto;
+        max-width: unset;
+    }
+    /* wd guest form box */
+    .wd-guest-form-box .thumb-left img {
+        display: none;
+    }
+    .wd-guest-form-box .wd-guest-form {
+        position: relative;
+        left: auto;
+        width: auto;
+        top: auto;
+    }
+    .wd-guest-form-box .wd-guest-form .left-site {
+        float: none;
+        width: auto;
+    }
+    .wd-guest-form-box .wd-guest-form .right-site {
+        float: none;
+        width: auto;
+    }
+    .theme-sidebar .search-sidebar .search-box .form-group .form-control {
+        width: 100%;
+    }
+
+    .blog-small-item {
+        margin-bottom: 51px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .slider-wrapper .slide-text-normal .slide-text-img {
+        width: 470px;
+        height: auto;
+        top: -102px;
+    }
+    .slider-wrapper .slide-text-normal .content {
+        padding-top: 70px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* couple section */
+    .couple-section .dete h2 {
+        font-size: 30px;
+    }
+    /* timer */
+    .timer .days-wrapper,
+    .timer .hours-wrapper,
+    .timer .minutes-wrapper,
+    .timer .seconds-wrapper {
+        margin: 0 10px;
+        width: 149px;
+        height: 149px;
+    }
+    /* divider content */
+    .divider-content h2 {
+        font-size: 34px;
+    }
+    .divider-content h2 span {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .slider-wrapper .slide-text-normal {
+        top: 12%;
+    }
+    /* couple section */
+    .couple-section .dete {
+        padding: 58px 0 50px;
+    }
+    /* timer */
+    .timer .days-wrapper,
+    .timer .hours-wrapper,
+    .timer .minutes-wrapper,
+    .timer .seconds-wrapper {
+        margin-bottom: 28px;
+    }
+    /* story wrapper */
+    .story-wrapper .story-timeline .shape-right:before,
+    .story-wrapper .story-timeline .shape-right:after {
+        display: none;
+    }
+    .story-wrapper .story-timeline .shape-left:before,
+    .story-wrapper .story-timeline .shape-left:after {
+        display: none;
+    }
+    .story-wrapper .story-timeline:before {
+        display: none;
+    }
+    .padding-left {
+        padding: 0;
+    }
+    .padding-right {
+        padding: 0;
+    }
+    .padding-left.p-img {
+        padding: 0;
+    }
+    .story-wrapper .story-timeline .story-text {
+        text-align: center;
+        margin-bottom: 14px;
+    }
+    /* wd gallery */
+    .wd-gallery a img {
+        max-width: unset;
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    
+    .slider-wrapper .slide-text-normal {
+        display: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+}
+
+@media (max-width: 473px) {
+    /* divider content */
+    .divider-content h2 {
+        font-size: 30px;
+        text-align: center;
+        line-height: 42px;
+    }
+    .divider-content h2 span {
+        padding: 0;
+        background-color: transparent;
+        top: 0;
+        font-size: unset;
+    }
+
+}
+
+@media (max-width: 370px) {
+    
+    .story-wrapper .story-text-bottom {
+        padding: 0 16px;
+    }
+}

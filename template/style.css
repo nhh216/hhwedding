@@ -1,13 +1,13 @@
 @charset "utf-8";
 
-/* CSS Document 
+/* CSS Document
 
-Project Name:  Bootstrap 4 Fremwork HTML5 Template     
-Version:  1.0   
+Project Name:  Bootstrap 4 Fremwork HTML5 Template
+Version:  1.0
 Author Name: Set PVT.
 Support Email : shakil.shakil.ahsan@gmail.com
 Design By: Mahamudul Hasan
-Creation Date: 10 September 2017 
+Creation Date: 10 September 2017
 
 *****=====***** TABLE OF CONTENT *****=====*****
 
@@ -56,7 +56,7 @@ Creation Date: 10 September 2017
 @import url('player.css');
 
 /*****=====*****=====*****=====*****=====
-    02. General CSS 
+    02. General CSS
 =====*****=====*****=====*****=====*****/
 
 body {
@@ -724,13 +724,13 @@ a.scrollup.style-2:focus i {
 }
 .service-item.style-1 .content h5 {
   font-size: 16px;
-} 
+}
 .service-item.style-1 .content h5 a {
   color: #4d4d4d;
 }
 .service-item.style-1 .content h5:hover a {
   color: #ed7e7e;
-} 
+}
 
 
 .service-item.style-2 .content h5 {
@@ -811,7 +811,7 @@ a.scrollup.style-2:focus i {
 
 .top-bar .social-icons {
     float: right;
-    
+
 }
 
 .top-bar .social-icons ul li {
@@ -1121,7 +1121,7 @@ a.scrollup.style-2:focus i {
     -ms-animation: 1.5s ease 0.0s normal forwards 1 running fadeInLeft;
     -o-animation: 1.5s ease 0.0s normal forwards 1 running fadeInLeft;
     animation: 1.5s ease 0.0s normal forwards 1 running fadeInLeft;
-    
+
 }
 
 .dropdown-buttons .menu-search-box ul.show {
@@ -1250,7 +1250,7 @@ a.scrollup.style-2:focus i {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.2);    
+    background-color: rgba(0, 0, 0, 0.2);
 }
 .bs-slider > .carousel-inner > .item > img,
 .bs-slider > .carousel-inner > .item > a > img {
@@ -1630,7 +1630,7 @@ a.scrollup.style-2:focus i {
 }
 .flexslider li .meta.slide-center,
 .flexslider li .meta.slide-center h2,
-.flexslider li .meta.slide-center p, 
+.flexslider li .meta.slide-center p,
 .flexslider li .meta.slide-center .category {
     left: 0;
     right: 0;
@@ -1640,7 +1640,7 @@ a.scrollup.style-2:focus i {
 
 
 .flexslider li .meta.slide-center h2,
-.flexslider li .meta.slide-center p, 
+.flexslider li .meta.slide-center p,
 .flexslider li .meta.slide-center .category {
   margin-bottom: 20px;
 }
@@ -1706,7 +1706,7 @@ a.scrollup.style-2:focus i {
 }
 
 .flex-direction-nav {
-  margin-top: -42%; 
+  margin-top: -42%;
 }
 .flex-direction-nav li .flex-next {
   z-index: 999;
@@ -2346,12 +2346,12 @@ canvas{
 }
 
 .couple-post.style-1 .content {
-    
+
 }
 
 .couple-post.style-1 .content h2 {
     color: #ed7e7e;
-    font-family: "Clicker Script",cursive;
+    font-family: cursive;
     font-size: 42px;
     font-weight: 500;
     margin-bottom: 12px;
@@ -2567,7 +2567,7 @@ canvas{
 }
 
 .story-wrapper {
-    
+
 }
 
 .story-wrapper .story-timeline {
@@ -2585,7 +2585,7 @@ canvas{
 }
 
 .story-wrapper .story-timeline .story-text {
-    
+
 }
 
 .story-wrapper .story-timeline .story-text h4 {
@@ -2771,7 +2771,7 @@ canvas{
 }
 
 .story-wrapper .story-timeline .love-box i {
-    
+
 }
 
 /*Story Text Bottom*/
@@ -2944,7 +2944,7 @@ canvas{
 }
 
 .wd-family .thumb {
-    
+
 }
 
 .wd-family .content {
@@ -3086,7 +3086,7 @@ canvas{
     content: "";
     height: 162px;
     display: none;
-    
+
     left: 0;
     margin: 0 auto;
     position: absolute;
@@ -3099,7 +3099,7 @@ canvas{
 /****Divider Style Two****/
 
 .divider-content.style-2 {
-    
+
 }
 
 .divider-content.style-2 h1 {
@@ -3173,7 +3173,7 @@ canvas{
 /*Divider Carousel*/
 
 #divider_slider {
-    
+
 }
 
 #divider_slider .owl-dots {
@@ -3223,7 +3223,7 @@ canvas{
 .video-divider .icon-box a {
     color: #ed7e7e;
     font-size: 108px;
-    
+
 }
 
 /*****=====*****=====*****=====*****=====
@@ -3674,7 +3674,7 @@ canvas{
 
 
 
-/* Blog Sideber Style Css*/ 
+/* Blog Sideber Style Css*/
 .sideber-title {
     position: relative;
     margin-bottom: 10px;
@@ -3723,7 +3723,7 @@ canvas{
 
 .widget .widget-post {
     padding: 0px 5px;
-} 
+}
 .widget .news-area {
     padding-bottom: 10px;
     margin-bottom: 5px;
@@ -3735,7 +3735,7 @@ canvas{
 }
 .widget .news-area .news-content a {
     color: #333;
-} 
+}
 .widget .news-area .news-content a:hover {
     color: #ed7e7e;
 }
@@ -4133,7 +4133,7 @@ canvas{
 }
 .product-color {
   line-height: 1;
-} 
+}
 .product-color li {
     display: block;
     height: 25px;
@@ -4189,7 +4189,7 @@ canvas{
 
 /* Shop Responsived Css*/
 
-@media only screen and (min-width: 1200px) and (max-width: 1880px)  { 
+@media only screen and (min-width: 1200px) and (max-width: 1880px)  {
     .shop-item.shop-list .shop-content {
         margin-top: 40px;
     }
@@ -4198,7 +4198,7 @@ canvas{
     }
 }
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
     .shop-item.shop-list .shop-content {
         margin-top: 10px;
     }
@@ -4206,7 +4206,7 @@ canvas{
         margin-bottom: 10px
     }
 }
-@media only screen and (min-width: 768px) and (max-width: 991px) { 
+@media only screen and (min-width: 768px) and (max-width: 991px) {
     .shop-item.shop-list .shop-content {
         margin-top: 10px;
     }
@@ -4217,7 +4217,7 @@ canvas{
         margin-top: 5px !important;
     }
 }
-@media only screen and (min-width: 420px) and (max-width: 767px) { 
+@media only screen and (min-width: 420px) and (max-width: 767px) {
     .shop-item.shop-list .shop-content {
         margin-top: 10px;
         padding-left: 30px;
@@ -4312,7 +4312,7 @@ Shop Css Style
 ----------------------------------------------------------------*/
 
 .shop-section {
-    
+
 }
 
 .shop-section .shopping-col {
@@ -4524,17 +4524,17 @@ input::-moz-placeholder {
     text-align: center;
     top: 0;
     width: 55px;
-} 
+}
 
 .theme-sidebar .search-sidebar i:hover {
     background-color: #091426;
     color: #ed7e7e;
-} 
+}
 
 /***Cat Item***/
 
 .cat-item {
-    
+
 }
 
 .cat-item ul li {
@@ -4640,7 +4640,7 @@ Blog Css Style
 }
 
 .blog-post .thumb {
-    
+
 }
 
 .blog-post .date-box {
@@ -4755,7 +4755,7 @@ Blog Css Style
 /***Blog Details***/
 
 .blog-details {
-    
+
 }
 
 .blog-details .details-thumb {
@@ -4763,7 +4763,7 @@ Blog Css Style
 }
 
 .blog-details .details-content {
-    
+
 }
 
 .blog-details .details-content h4 {
@@ -4776,7 +4776,7 @@ Blog Css Style
 }
 
 .blog-details .details-content .details-tag {
-    
+
 }
 
 .blog-details .details-content .details-tag li {
@@ -5259,7 +5259,7 @@ footer {
   top: 0;
   width: 40px;
 }
- 
+
 
 .img-rounded img,
 .img-rounded a:after,
@@ -5421,9 +5421,9 @@ footer {
 }
 .bg-footer-1,
 .bg-footer-1 h4,
-.bg-footer-1 .footer-title h4, 
+.bg-footer-1 .footer-title h4,
 .bg-footer-1 h5,
-.bg-footer-1 .footer-item h6, 
+.bg-footer-1 .footer-item h6,
 .bg-footer-1 .footer-item .newsletter-text,
 .bg-footer-1 .footer-item .social-icon.bordered li i,
 .bg-footer-1 .social-icon.bordered li i,
@@ -5474,7 +5474,7 @@ M > P Css Style
     padding: 270px 0;
     background-image: url(../images/slider/1.jpg);
     position: relative;
-    
+
 }
 
 .footer-section:before {
